@@ -1,5 +1,3 @@
-This is a front end development part of the our green mart website
-
 Our group members  
 
 ITBNM-2211-0129   W.S.N. Fernando
