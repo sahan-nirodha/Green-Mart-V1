@@ -23,10 +23,10 @@ Registration Page
 Home Page
 ![Screenshot 2024-11-15 084204](https://github.com/user-attachments/assets/e8b54385-ec6f-4433-b5b8-6d71e519a753)
 
-Today's Offer Section of the home page
+Today's Offer Section Of The Home Page
 ![Screenshot 2024-11-15 084102](https://github.com/user-attachments/assets/d95f346d-4ce7-484b-a6c6-bd4b48c9245a)
 
-Customer Reviews Section of the home page
+Customer Reviews Section Of The Home Page
 ![Screenshot 2024-11-15 084112](https://github.com/user-attachments/assets/e4be9476-a0d5-4cd9-ad85-1ae2920889d4)
 
 Category Page
